@@ -10,4 +10,4 @@ INSERT INTO `vehicle_categories` (name, label) VALUES
 	('suvs','SUVs'),
 	('vans','Vany'),
 	('motorcycles','Motory')
-	('Utylity','Użytkowe')
+	('Utility','Użytkowe')
