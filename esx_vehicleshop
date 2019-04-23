@@ -1,0 +1,13 @@
+INSERT INTO `vehicle_categories` (name, label) VALUES
+	('compacts','Kompakty'),
+	('coupes','Coupe'),
+	('sedans','Sedany'),
+	('sports','Sportowe'),
+	('sportsclassics','Klasyki sportowe'),
+	('super','Supersamochody'),
+	('muscle','Muscle'),
+	('offroad','Terenowe'),
+	('suvs','SUVs'),
+	('vans','Vany'),
+	('motorcycles','Motory')
+	('Utylity','Użytkowe')
